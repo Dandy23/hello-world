@@ -1,3 +1,4 @@
 # hello-world
 proof
-Begginer in GitHub, 22 years old stundent
+
+Beginner in GitHub, I like to play League of Legends 
